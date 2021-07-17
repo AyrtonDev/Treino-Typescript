@@ -1,0 +1,1 @@
+// Mexendo com tsconfig.json, criando excludes, para evitar que o typescript compile certos codigos, e tem o comando include, para incluir
